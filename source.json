@@ -12,7 +12,7 @@
       "versionDescription": "- Erste Version veröffentlicht",
       "downloadURL": "https://deinserver.com/apps/mycoolapp.ipa",
       "iconURL": "https://deinserver.com/assets/app-icon.png",
-      "tintColor": "rgba(52,199,89,1)",
+      "tintColor": "#34c759",
       "localizedDescription": "Eine coole App, die viele Dinge kann.",
       "screenshotURLs": [
         "https://deinserver.com/assets/screenshot1.png"
