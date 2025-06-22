@@ -9,8 +9,8 @@
       "version": "1.0",
       "versionDate": "2025-06-22",
       "versionDescription": "Einfacher Launcher, der minimania.de.cool öffnet.",
-      "downloadURL": "https://minimania.de.cool/downloads/minimania.ipa",
-      "iconURL": "https://minimania.de.cool/downloads/icon.png",
+      "downloadURL": "https://minimania-de.github.io/IOS-Clinet/client.ipa",
+      "iconURL": "https://tcjb.de.cool/MiniMania/assets/images/favicon.png",
       "localizedDescription": "Öffnet MiniMania direkt als App.",
       "tintColor": "0084FF"
     }
