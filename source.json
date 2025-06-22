@@ -1,21 +1,21 @@
 {
-  "name": "Mein App-Repo",
-  "identifier": "com.meinname.repo",
-  "subtitle": "Coole inoffizielle Apps!",
+  "name": "MiniMania IOS",
+  "identifier": "com.minimania.ios",
+  "subtitle": "Apps für MiniMania",
   "apps": [
     {
-      "name": "MyCoolApp",
-      "bundleIdentifier": "com.meinname.mycoolapp",
-      "developerName": "Max Mustermann",
-      "version": "1.0",
+      "name": "MiniMania Clinet",
+      "bundleIdentifier": "com.minimania.client",
+      "developerName": "Janni142, MiniMania",
+      "version": "0.1",
       "versionDate": "2025-06-22",
       "versionDescription": "- Erste Version veröffentlicht",
-      "downloadURL": "https://deinserver.com/apps/mycoolapp.ipa",
-      "iconURL": "https://deinserver.com/assets/app-icon.png",
-      "tintColor": "#34c759",
-      "localizedDescription": "Eine coole App, die viele Dinge kann.",
+      "downloadURL": "https://minimania-de.github.io/IOS-Clinet/apps/client.ipa",
+      "iconURL": "https://tcjb.de.cool/MiniMania/assets/images/favicon.png",
+      "tintColor": "#ec6090",
+      "localizedDescription": "Spiele Spile von MiniMania direkt auf deinem iPhone, iPad oder Mac enc.",
       "screenshotURLs": [
-        "https://deinserver.com/assets/screenshot1.png"
+        "https://tcjb.de.cool/MiniMania/assets/images/favicon.png"
       ]
     }
   ]
