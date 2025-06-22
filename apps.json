@@ -4,14 +4,14 @@
     "bundleIdentifier": "de.minimania.client",
     "developerName": "MiniMania",
     "subtitle": "MiniSpile App",
-    "version": "1.0",
+    "version": "0.0.1",
     "versionDate": "2025-06-22",
-    "versionDescription": "Dies ist die erste Version meiner Minecraft-App!",
-    "downloadURL": "https://janni142.de.cool/apps/deineApp.ipa",
-    "iconURL": "https://janni142.de.cool/images/icon.png",
+    "versionDescription": "alpa test 0.0.1 von MiniMania IOS Client",
+    "downloadURL": "https://minimania-de.github.io/IOS-Clinet/client.ipa",
+    "iconURL": "https://avatars.githubusercontent.com/u/217432905?s=200&v=4",
     "localizedDescription": {
-      "de": "Dies ist eine coole App von Janni142.",
-      "en": "This is a cool app by Janni142."
+      "de": "MiniMania Client für IOS",
+      "en": "MiniMania Client for IOS"
     }
   }
 ]
