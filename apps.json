@@ -1,0 +1,17 @@
+[
+  {
+    "name": "MiniMania Client",
+    "bundleIdentifier": "de.minimania.client",
+    "developerName": "MiniMania",
+    "subtitle": "MiniSpile App",
+    "version": "1.0",
+    "versionDate": "2025-06-22",
+    "versionDescription": "Dies ist die erste Version meiner Minecraft-App!",
+    "downloadURL": "https://janni142.de.cool/apps/deineApp.ipa",
+    "iconURL": "https://janni142.de.cool/images/icon.png",
+    "localizedDescription": {
+      "de": "Dies ist eine coole App von Janni142.",
+      "en": "This is a cool app by Janni142."
+    }
+  }
+]
