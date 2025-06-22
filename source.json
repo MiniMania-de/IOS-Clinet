@@ -1,5 +1,5 @@
 {
   "name": "MiniMania IOS",
   "identifier": "de.minimania.quelle",
-  "apps": "https://github.com//apps.json"
+  "apps": "https://raw.githubusercontent.com/MiniMania-de/IOS-Clinet/refs/heads/main/apps.json?token=GHSAT0AAAAAADF53NTAE5FRM7EBEZV7XA2G2CXXYKA"
 }
